@@ -1,0 +1,11 @@
+.app{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.d1{
+    margin: 20px;
+}
